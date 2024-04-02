@@ -1,0 +1,20 @@
+{
+  "name": "todoappujk_droid",
+  "version": "1.0.2",
+  "description": "my first to do app",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "uzma khan",
+  "license": "MIT",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.30",
+    "inquirer": "^9.2.17",
+    "save-dev": "^0.0.1-security"
+  }
+}
